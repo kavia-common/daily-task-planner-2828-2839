@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/daily-task-planner-2828-2839/database"
+}
